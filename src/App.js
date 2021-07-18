@@ -7,7 +7,6 @@ function App(){
 
   function inputEvent(e){
     // console.log(e.target.value);
-
     setName(e.target.value);
   }
 
